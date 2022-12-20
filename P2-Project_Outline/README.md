@@ -7,12 +7,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This will help you to get more enjoyment out of traveling by helping you keep track of places you want to go, as well as finding new locations of interest. 
 ### Features
-Include Features here
+Allow user to specify interests, find attractions based on interest, give information about destination, find interesting things on the way, allow user to see ratings and a link to a place's website for more info
 ### Technologies
-Include Technologies here
+asp.net mvc, bootstrap, mysql, identity
 ### What I'll Have to Learn
-Include what you will need to learn here
+Learn about using web APIs and learn more about things I've already used before
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/J34qr4nR/group-robin
